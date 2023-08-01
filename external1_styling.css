@@ -1,0 +1,23 @@
+#abc{
+	color:red;
+	font-family: cursive;
+}
+
+.c{
+	height: 10000px;
+	width: 800px;
+	float:left;
+	background-color: grey;
+}
+.d{
+	height: 10000px;
+	width: 80px;
+	color: grey;
+	float:right;
+}
+.b{
+	height: 10000px;
+	width: 1120px;
+	color: grey;
+	float:left;
+}

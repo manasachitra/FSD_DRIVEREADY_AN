@@ -1,0 +1,9 @@
+div
+{
+	height:1100px;
+	width:1500px;
+	background-image: url('virat.jpg');
+	background-repeat:no repeat ;
+	background-size: cover;
+	border:5px solid red;
+}
